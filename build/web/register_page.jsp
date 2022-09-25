@@ -66,7 +66,7 @@
 
 
                                 <div class="form-group">
-                                    <textarea name="about" class="form-control" id="" rows="5" placeholder="Enter Something about yourself"></textarea>
+                                    <textarea name="about" class="form-control" rows="5" placeholder="Enter Something about yourself"></textarea>
                                 </div>
 
                                 <div class="form-check">
@@ -79,6 +79,7 @@
                                     <h4>Please wait...</h4>
                                 </div>
                                 <button id="submit-btn" type="submit" class="btn btn-primary">Submit</button>
+                                <label>Already have an account  <a href="login_page.jsp" style="color: blue">Login here</a></label>
                             </form> 
                         </div>
 

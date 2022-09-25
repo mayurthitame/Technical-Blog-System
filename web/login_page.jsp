@@ -67,6 +67,7 @@
                                     </div>
                                     <div class="container text-center"><!-- comment -->
                                         <button type="submit" class="btn btn-primary">Submit</button>
+                                        <label>New User please register <a href="register_page.jsp" style="color: blue"> here</a></label>
                                     </div>
                                 </form>
                             </div>
